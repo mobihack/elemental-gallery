@@ -1,5 +1,6 @@
 # Elemental Gallery
 
+[![Elemental Gallery Screenshot](https://cdn.rawgit.com/mobihack/gallery/2ffd75f9/docs/Screenshot-2018-4-3%20Gallery%20-%20Jane%20Doe.png)]
 
 
 Elemental Gallery is a static data driven gallery with lightbox.This gallery is intended for individuals or groups who want to showcase their works or precious moments.
