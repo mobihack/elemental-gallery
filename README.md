@@ -24,7 +24,7 @@ Elemental Gallery uses a number of open source projects to work properly:
 
 Soon
 
-### Todos
+## Todos
 
  - Write MORE Tests
  - Add Night Mode
