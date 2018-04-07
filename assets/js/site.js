@@ -103,7 +103,7 @@ function createGallery(name, items) {
             }, [
                 newElement('img', {
                     className: 'img-fluid image scale-on-hover',
-                    src: (typeof items.images[id].thumbnail != "undefined")?items.images[id].thumbnail:(ytVidId(items.images[id].url)!=false?'http://img.youtube.com/vi/'+ytVidId(items.images[id].url)+'/mqdefault.jpg':items.images[id].url)
+                    src: (typeof items.images[id].thumbnail != "undefined")?items.images[id].thumbnail:(ytVidId(items.images[id].url)!=false?'//img.youtube.com/vi/'+ytVidId(items.images[id].url)+'/mqdefault.jpg':items.images[id].url)
                 })
             ])
         ]);
