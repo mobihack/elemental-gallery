@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Thailand",
+    "date": "2018-04-01T05:46:55+00:00",
+    "images": [
+      {
+        "url": "./data/img/image1.jpg",
+        "descText": "Hello this is an example for descrriptions. Thank You. Have a nice day!"
+      },
+      {
+        "url": "./data/img/image2.jpg",
+        "descText": "Hello this is an example for descrriptions. Thank You. Have a nice day!",
+        "descPosition":"right"
+      },
+      {
+        "url": "./data/img/image3.jpg"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=QxIR8x2CefM"
+      },{
+        "url": "./data/vid/SampleVideo_1280x720_2mb.mp4",
+        "thumbnail": "./data/vid/bbb-splash.png"
+      }
+    ]
+  },
+  {
+    "name": "Mali",
+    "date": "2018-04-01T05:46:55+00:00",
+    "description": "A small description about the trip and more!",
+    "images": [
+      {
+        "url": "./data/img/image4.jpg"
+      },
+      {
+        "url": "./data/img/image5.jpg"
+      },
+      {
+        "url": "./data/img/image6.jpg"
+      }
+    ]
+  },
+  {
+    "name": "England",
+    "date": "2018-04-01T05:46:55+00:00",
+    "description": "A small description about the trip and more!",
+    "images": [
+      {
+        "url": "./data/img/image7.jpg"
+      },
+      {
+        "url": "./data/img/image8.jpg"
+      },
+      {
+        "url": "./data/img/image9.jpg"
+      }
+    ]
+  }
+]
