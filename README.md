@@ -1,6 +1,6 @@
 # Elemental Gallery
 
-![Elemental Gallery Screenshot](https://cdn.rawgit.com/mobihack/gallery/cd188c06/docs/elemental-gallery-screenshot.png)
+![Elemental Gallery Screenshot](./docs/elemental-gallery-screenshot.png)
 
 
 Elemental Gallery is a static data driven gallery with lightbox.This gallery is intended for individuals or groups who want to showcase their works or precious moments.
