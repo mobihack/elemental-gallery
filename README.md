@@ -28,6 +28,7 @@ Soon
 ## Todos
 
  - Write MORE Tests
+ - Lazy load images
  - Add Night Mode
 
 ***
