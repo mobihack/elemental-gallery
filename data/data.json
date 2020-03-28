@@ -5,11 +5,11 @@
     "images": [
       {
         "url": "./data/img/image1.jpg",
-        "descText": "Hello this is an example for descrriptions. Thank You. Have a nice day!"
+        "descText": "Hello this is an example for descriptions. Thank You. Have a nice day!"
       },
       {
         "url": "./data/img/image2.jpg",
-        "descText": "Hello this is an example for descrriptions. Thank You. Have a nice day!",
+        "descText": "Hello this is an example for descriptions. The description section is attatched to the right side of the image.  Thank You. Have a nice day!",
         "descPosition":"right"
       },
       {
